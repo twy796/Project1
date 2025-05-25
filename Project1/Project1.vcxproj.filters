@@ -18,5 +18,14 @@
     <ClCompile Include="new.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test1.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="float.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="char.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

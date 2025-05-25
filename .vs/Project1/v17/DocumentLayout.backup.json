@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "F:\\code\\Project1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{43986B0A-759C-4C9B-93A9-75A9FA8E5D38}|Project1\\Project1.vcxproj|F:\\code\\Project1\\Project1\\char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43986B0A-759C-4C9B-93A9-75A9FA8E5D38}|Project1\\Project1.vcxproj|solutionrelative:Project1\\char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43986B0A-759C-4C9B-93A9-75A9FA8E5D38}|Project1\\Project1.vcxproj|F:\\code\\Project1\\Project1\\float.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43986B0A-759C-4C9B-93A9-75A9FA8E5D38}|Project1\\Project1.vcxproj|solutionrelative:Project1\\float.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43986B0A-759C-4C9B-93A9-75A9FA8E5D38}|Project1\\Project1.vcxproj|F:\\code\\Project1\\Project1\\test1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43986B0A-759C-4C9B-93A9-75A9FA8E5D38}|Project1\\Project1.vcxproj|solutionrelative:Project1\\test1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{43986B0A-759C-4C9B-93A9-75A9FA8E5D38}|Project1\\Project1.vcxproj|F:\\code\\Project1\\Project1\\new.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{43986B0A-759C-4C9B-93A9-75A9FA8E5D38}|Project1\\Project1.vcxproj|solutionrelative:Project1\\new.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,15 +31,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "char.cpp",
+              "DocumentMoniker": "F:\\code\\Project1\\Project1\\char.cpp",
+              "RelativeDocumentMoniker": "Project1\\char.cpp",
+              "ToolTip": "F:\\code\\Project1\\Project1\\char.cpp",
+              "RelativeToolTip": "Project1\\char.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-25T09:24:36.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "float.cpp",
+              "DocumentMoniker": "F:\\code\\Project1\\Project1\\float.cpp",
+              "RelativeDocumentMoniker": "Project1\\float.cpp",
+              "ToolTip": "F:\\code\\Project1\\Project1\\float.cpp",
+              "RelativeToolTip": "Project1\\float.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-25T09:11:24.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test1.cpp",
+              "DocumentMoniker": "F:\\code\\Project1\\Project1\\test1.cpp",
+              "RelativeDocumentMoniker": "Project1\\test1.cpp",
+              "ToolTip": "F:\\code\\Project1\\Project1\\test1.cpp",
+              "RelativeToolTip": "Project1\\test1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-25T08:59:20.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "new.cpp",
               "DocumentMoniker": "F:\\code\\Project1\\Project1\\new.cpp",
               "RelativeDocumentMoniker": "Project1\\new.cpp",
-              "ToolTip": "F:\\code\\Project1\\Project1\\new.cpp*",
-              "RelativeToolTip": "Project1\\new.cpp*",
+              "ToolTip": "F:\\code\\Project1\\Project1\\new.cpp",
+              "RelativeToolTip": "Project1\\new.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-25T08:49:53.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T08:49:53.393Z"
             }
           ]
         }
